@@ -1,0 +1,10 @@
+{
+  "title": "Kitchen Sink",
+  "runtime": "create-react-app",
+  "tags": [
+    "ag-grid",
+    "ag-charts",
+    "example"
+  ],
+  "published": false
+}

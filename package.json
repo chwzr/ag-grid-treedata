@@ -1,0 +1,12 @@
+{
+  "name": "ag-grid-example",
+  "dependencies": {
+    "react": "18",
+    "react-dom": "18",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "ag-grid-react": "33.1.0",
+    "ag-grid-community": "33.1.0",
+    "ag-grid-enterprise": "33.1.0"
+  }
+}
